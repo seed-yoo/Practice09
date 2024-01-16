@@ -36,12 +36,6 @@ public class FriendApp {
     	
     	
     	
-    	
-    	
-    	
-    	
-    	
-    	
     	sc.close();
     	
     	
